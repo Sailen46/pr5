@@ -1,0 +1,7 @@
+@media(min-width: 768px){
+    nav span{display: none;}
+    nav ul{display: flex; gap: 20px;}
+    nav a{color: var(--brand);}
+    .banner-left, .banner-right{width: 50%;}
+    .banner .flex{ flex-direction: row;}
+}
